@@ -90,7 +90,6 @@ class DocumentManagerTest {
 
     @Test
     void search() {
-
         fillDocumentManager();
 
         var searchRequest = DocumentManager.SearchRequest.builder()
@@ -122,7 +121,6 @@ class DocumentManagerTest {
         documentManager.save(document);
 
         String docID = "b4e1fc55-3a72-43eb-81fd-85aecf0ca113";
-
 
         assertTrue(documentManager.findById("b4e1fc55-3a72-43eb-81fd-85aecf0ca113").isPresent());
 
