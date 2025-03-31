@@ -1,0 +1,38 @@
+[
+  {
+    "author": {
+      "id": "1345",
+      "name": "Petro"
+    },
+    "document": {
+      "id": "0fec8e28-7cff-4eea-be26-95805762eddb",
+      "title": "Java book",
+      "content": "Tutor",
+      "created": "2025-03-31T12:51:58.217883300Z"
+    }
+  },
+  {
+    "author": {
+      "id": "13234",
+      "name": "Ivan"
+    },
+    "document": {
+      "id": "b4e1fc55-3a72-43eb-81fd-85aecf0ca148",
+      "title": "Python book",
+      "content": "Algorithms",
+      "created": "2025-03-31T12:51:53.207217600Z"
+    }
+  },
+  {
+    "author": {
+      "id": "10987",
+      "name": "Vasyl"
+    },
+    "document": {
+      "id": "b4e1fc55-3a72-43eb-81fd-85aecf0ca113",
+      "title": "Go book",
+      "content": "Firebase integration",
+      "created": "2025-03-31T12:51:30.207217600Z"
+    }
+  }
+]
